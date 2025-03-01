@@ -6,7 +6,7 @@ class Calculator
     {
         while (true) // Keeps running until user chooses to exit
         {
-            Console.Write("Enter first number (or type 'exit' to quit): ");
+            Console.Write("Enter firstt number (or type 'exit' to quit): ");
             string input1 = Console.ReadLine();
 
             if (input1.ToLower() == "exit") break; // Exit condition

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yashq\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yashq\\OneDrive\\Documents\\Simple Calculator\\Simple Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Documents\\Calculator3D\\Simple Calculator.csproj",
       "projectName": "Simple Calculator",
-      "projectPath": "C:\\Users\\yashq\\OneDrive\\Documents\\Simple Calculator\\Simple Calculator.csproj",
-      "packagesPath": "C:\\Users\\yashq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yashq\\OneDrive\\Documents\\Simple Calculator\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Documents\\Calculator3D\\Simple Calculator.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Documents\\Calculator3D\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yashq\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
