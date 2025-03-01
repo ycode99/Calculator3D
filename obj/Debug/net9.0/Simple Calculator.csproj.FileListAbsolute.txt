@@ -1,0 +1,14 @@
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\bin\Debug\net9.0\Simple Calculator.exe
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\bin\Debug\net9.0\Simple Calculator.deps.json
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\bin\Debug\net9.0\Simple Calculator.runtimeconfig.json
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\bin\Debug\net9.0\Simple Calculator.dll
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\bin\Debug\net9.0\Simple Calculator.pdb
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.AssemblyInfo.cs
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.dll
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\refint\Simple Calculator.dll
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.pdb
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\Simple Calculator.genruntimeconfig.cache
+C:\Users\yashq\OneDrive\Documents\Simple Calculator\obj\Debug\net9.0\ref\Simple Calculator.dll
